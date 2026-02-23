@@ -17,10 +17,18 @@
     "role": "Owner",
     "bio": "Creating this project."
   },
+<<<<<<< main
    {
     "name": "Aditya",
     "github": "cse-aditya",
     "role": "Owner",
     "bio": "Creating this project."
+=======
+  {
+    "name": "Mayank",
+    "github": "cse-mayank",
+    "role": "Sabse Bada Owner",
+    "bio": "Owning this project."
+>>>>>>> main
   }
 ]
