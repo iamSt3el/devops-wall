@@ -1,0 +1,6 @@
+{
+  "name": "Rohan",
+  "github": "Rohankumar074",
+  "role": "Contributor",
+  "bio": "Contributing to this project."
+}
